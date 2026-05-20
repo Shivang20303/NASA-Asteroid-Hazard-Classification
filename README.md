@@ -11,7 +11,6 @@
 [![LightGBM](https://img.shields.io/badge/LightGBM-4.0-brightgreen)](https://lightgbm.readthedocs.io/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0-green?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
 
 > _"A major asteroid impact is statistically inevitable on the scale of millennia. Early detection and accurate classification is the cornerstone of planetary defense."_
